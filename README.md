@@ -28,3 +28,16 @@ Sebelum menjalankan aplikasi, pastikan Anda sudah menginstal:
 1. **Clone repository ini** ke komputer Anda:
    ```bash
    git clone https://github.com/riyanchiyoko/Streamlit_Ecommerce_Public
+2. Masuk ke folder project: 
+    cd Streamlit_Ecommerce_Public
+3. Buat virtual environment (opsional, tapi direkomendasikan): 
+    python -m venv env
+    source env/bin/activate      # Mac/Linux
+    env\Scripts\activate         # Windows
+4. Install dependensi yang diperlukan: 
+    pip install -r requirements.txt
+5. Jalankan aplikasi Streamlit: 
+    streamlit run dashbord.py
+6. Akses dashboard melalui browser: Setelah menjalankan perintah di atas, Anda akan melihat URL seperti: 
+    Local URL: http://localhost:8501
+    Buka salah satu URL tersebut di browser Anda. 
