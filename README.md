@@ -27,4 +27,4 @@ Sebelum menjalankan aplikasi, pastikan Anda sudah menginstal:
 ## 🚀 **Cara Menjalankan Dashboard**
 1. **Clone repository ini** ke komputer Anda:
    ```bash
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/riyanchiyoko/Streamlit_Ecommerce_Public
