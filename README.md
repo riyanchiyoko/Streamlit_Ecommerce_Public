@@ -37,7 +37,7 @@ Sebelum menjalankan aplikasi, pastikan Anda sudah menginstal:
 4. Install dependensi yang diperlukan: 
     pip install -r requirements.txt
 5. Jalankan aplikasi Streamlit: 
-    streamlit run dashbord.py
+    streamlit run dashboard.py
 6. Akses dashboard melalui browser: Setelah menjalankan perintah di atas, Anda akan melihat URL seperti: 
     Local URL: http://localhost:8501
-    Buka salah satu URL tersebut di browser Anda. 
+    Buka URL tersebut di browser Anda. 
